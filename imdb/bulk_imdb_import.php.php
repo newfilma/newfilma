@@ -16,6 +16,7 @@ if (empty($ids)) {
     exit;
 }
 
+
 $moviesPath = DATA_PATH . '/movies.json';
 $movies = load_json($moviesPath);
 
