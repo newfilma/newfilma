@@ -5,6 +5,8 @@ require_once __DIR__ . '/imdb_config.php';
 
 header('Content-Type: application/json');
 
+
+
 $imdbId = $_GET['imdb_id'] ?? '';
 if ($imdbId === '') {
     http_response_code(400);
