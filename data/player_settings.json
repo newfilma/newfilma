@@ -1,0 +1,17 @@
+{
+    "enabled": 1,
+    "css_videojs": "player\/css\/video-js.min.css",
+    "css_nuevo": "player\/css\/nuevo.css",
+    "js_videojs": "player\/js\/video.min.js",
+    "js_nuevo": "player\/js\/nuevo.min.js",
+    "logo_url": "assets\/img\/logo.svg",
+    "poster_default": "assets\/img\/backgrounds\/default-poster.jpg",
+    "autoplay": 0,
+    "muted": 0,
+    "preload": "metadata",
+    "skin": "default",
+    "lang": "en",
+    "preroll_enabled": 0,
+    "preroll_url": "",
+    "preroll_skip_after": 5
+}

@@ -1,0 +1,52 @@
+[[
+    {
+        "id": 1,
+        "name": "admin",
+        "email": "gezimcerri@gmail.com",
+        "username": "admin",
+        "password": "$2y$10$zwt8iqjLGpdryGn.YYcn3u8XzPJ5awjadIDif0qCgkTHd86\/xipg2",
+        "role": "admin",
+        "created_at": "2025-11-28 22:40:40",
+        "plan": "VIP 12M",
+        "expires_at": "2026-11-30",
+        "status": "aktiv",
+        "last_login": "2025-12-01 01:30:12"
+    },
+    {
+        "id": 2,
+        "name": "xhiminet",
+        "email": "xhimiNET@hotmail.com",
+        "username": "xhiminet",
+        "password": "$2y$10$pkWA59IAWEXUADiyfe8OtOHN6mW9kF8Ft1f7XH06lIN3UCXPWIeWe",
+        "role": "user",
+        "created_at": "2025-11-29 15:06:59",
+        "plan": "Free",
+        "expires_at": "",
+        "status": "aktiv",
+        "last_login": "2025-12-01 10:35:37"
+    },
+    {
+        "id": 3,
+        "name": "hilmi xhahysa",
+        "email": "xhahysa1977@gmail.com",
+        "password": "$2y$10$zVoaMg1h.R.AEAbvaVR22.GQGK8bWyxLIH392BvV9K\/n7kHoN8ADS",
+        "role": "user",
+        "plan": "Basic 1M",
+        "expires_at": "2025-12-30",
+        "status": "aktiv",
+        "created_at": "2025-11-30 13:43:41",
+        "username": "roshi"
+    },
+    {
+        "id": 4,
+        "name": "xhimi",
+        "email": "xhimi@gmail.com",
+        "password": "$2y$10$.RWUCb89SPenKm8YTYVkvu.JeTNOTdCweB5TmfhB4S45QLpmiaW32",
+        "role": "user",
+        "plan": "Free",
+        "expires_at": "",
+        "status": "aktiv",
+        "created_at": "2025-11-30 19:54:21",
+        "username": ""
+    }
+]]

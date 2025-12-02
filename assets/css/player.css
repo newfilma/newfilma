@@ -1,0 +1,36 @@
+/* PLAYER.CSS – VideoJS skin */
+
+.video-js{
+    width:100%;
+    height:auto;
+    border-radius:12px;
+    overflow:hidden;
+}
+
+/* poster */
+.vjs-poster{
+    background-size:cover !important;
+    background-position:center !important;
+}
+
+/* controls */
+.vjs-control-bar{
+    background:rgba(0,0,0,0.55) !important;
+}
+
+/* buttons */
+.vjs-button > .vjs-icon-placeholder{
+    color:white !important;
+}
+
+/* loading spinner */
+.vjs-loading-spinner{
+    border-color:#3b82f6 !important;
+}
+
+/* watermark logo */
+.vjs-watermark{
+    position:absolute;
+    z-index:9999;
+    opacity:0.9;
+}
